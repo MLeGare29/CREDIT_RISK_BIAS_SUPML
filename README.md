@@ -91,6 +91,8 @@ As you can see, based on these metrics, resampling the data does have an effect 
 
 ## GALLERY
 
+![image](https://github.com/MLeGare29/M12_CHALLENGE/assets/127421460/c0e5bdfb-4fc0-4303-8d7a-9e70a2399f26)
+
 
 ## CONTRIBUTORS
 
